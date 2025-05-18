@@ -32,21 +32,34 @@
 </p>
 
 ---
-  <img src="https://camo.githubusercontent.com/a748574912081d4e728386aa07c4fc1ee5dc84467ff165a5617c769b1a468238/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861546b33643274344d325177647a63796444557962544269636d646d633341334f48646a616d523564326c6c4e4731735a6d6c7864535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e77656270" width="260" alt="welcome" style="margin-bottom: 20px;" />
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
-  
-  <a href="https://www.instagram.com/pedro_nageh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:bebonageh68@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<div align="center" style="position:relative;width:320px;margin:auto;">
+  <div style="position:relative; display:inline-block;">
+    <img src="https://camo.githubusercontent.com/a748574912081d4e728386aa07c4fc1ee5dc84467ff165a5617c769b1a468238/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861546b33643274344d325177647a63796444557962544269636d646d633341334f48646a616d523564326c6c4e4731735a6d6c7864535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e77656270" width="320" alt="welcome" style="border-radius:18px;box-shadow:0 8px 32px 0 rgba(31,38,135,0.37);filter:blur(0.5px);position:relative;z-index:2;"/>
+    <div style="
+      position:absolute;
+      top:50%; left:50%;
+      transform:translate(-50%, -35%);
+      width:90%; display:flex; gap:10px; justify-content:center; z-index:3;
+      ">
+      <a href="https://www.instagram.com/pedro_nageh/" target="_blank" style="z-index:3;">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius:8px;box-shadow:0 2px 8px #E4405F88;"/>
+      </a>
+      <a href="https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/" target="_blank" style="z-index:3;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:8px;box-shadow:0 2px 8px #0077B588;"/>
+      </a>
+      <a href="mailto:bebonageh68@gmail.com" style="z-index:3;">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius:8px;box-shadow:0 2px 8px #D1483688;"/>
+      </a>
+    </div>
+  </div>
+</div>
 
+<br/>
+
+<p align="center" style="font-size:1.15em;">
+  <b>Welcome!</b> <br>
+  Connect with me:
+</p>
 ---
 
 <!-- Smooth animation gradient bar -->

@@ -69,7 +69,7 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
   height="45" 
   alt="GitHub" 
-  style="filter: hue-rotate(30deg) saturate(150%) brightness(1.2);" />
+  style="filter: hue-rotate(30deg) saturate(150%) brightness(4);" />
     </p>
   </div>
 </div>

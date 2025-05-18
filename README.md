@@ -32,6 +32,10 @@
 </p>
 
 ---
+<p align="center" style="font-size:1.15em;">
+  <b>Welcome!</b> <br>
+  Connect with me:
+</p>
 <div align="center" style="position:relative;width:320px;margin:auto;">
   <div style="position:relative; display:inline-block;">
     <img src="https://camo.githubusercontent.com/a748574912081d4e728386aa07c4fc1ee5dc84467ff165a5617c769b1a468238/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861546b33643274344d325177647a63796444557962544269636d646d633341334f48646a616d523564326c6c4e4731735a6d6c7864535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e77656270" width="320" alt="welcome" style="border-radius:18px;box-shadow:0 8px 32px 0 rgba(31,38,135,0.37);filter:blur(0.5px);position:relative;z-index:2;"/>
@@ -56,10 +60,7 @@
 
 <br/>
 
-<p align="center" style="font-size:1.15em;">
-  <b>Welcome!</b> <br>
-  Connect with me:
-</p>
+
 ---
 
 <!-- Smooth animation gradient bar -->

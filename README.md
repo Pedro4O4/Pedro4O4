@@ -5,22 +5,18 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Pedro4O4/count.svg?" />
 </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak" />
+</p>
 
-  <!-- Welcome GIF -->
-
-
-  <!-- GitHub Stats Cards -->
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <h3 align="center" style="margin-top: 32px;">🏆 Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedro4O4&theme=dracula&column=6&margin-w=8&margin-h=8" width="90%" alt="GitHub Trophies" style="margin-top: 10px;" />
+</div>
+ <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="Stats" style="margin: 8px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro4O4&locale=en&hide_title=false&layout=compact&card_width=260&langs_count=5&theme=dracula&hide_border=true" height="160" alt="Top Languages" style="margin: 8px;" />
   </div>
 
-  <!-- Achievements Section -->
-  <h3 align="center" style="margin-top: 32px;">🏆 Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedro4O4&theme=dracula&column=6&margin-w=8&margin-h=8" width="90%" alt="GitHub Trophies" style="margin-top: 10px;" />
-
-</div>
----
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
@@ -52,9 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="45" alt="WebStorm"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak" />
-</p>
+
 ---
 <p align="center" style="font-size:1.15em;">
   <b>Welcome!</b> <br>

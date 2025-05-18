@@ -54,7 +54,6 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak" />
-  <img src="https://img.shields.io/github/contributors/Pedro4O4/my-repo?color=blue" alt="Contributors"/>
 </p>
 ---
 <p align="center" style="font-size:1.15em;">

@@ -3,22 +3,9 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc5NGgzMHMwcmxpbnEyNzhkcGNvNmswOGE2YTh6dTJzN3NydTZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="350" alt="Welcome" />
 <div align="center">
-
-<div align="center">
-
-  <!-- Stylish Visitor Badge -->
-  <a href="https://github.com/Pedro4O4/Pedro4O4">
-    <img 
-      src="https://visitor-badge.laobi.icu/badge?page_id=Pedro4O4.Pedro4O4&style=flat-square&color=0e75b6&label=Visitors"
-      alt="Visitors"
-      style="border-radius:30px; box-shadow:0 2px 8px #0e75b655; margin-bottom:12px; animation: pulse 2s infinite;"
-    />
-  </a>
-  
+  <img src="https://profile-counter.glitch.me/Pedro4O4/count.svg?" />
 </div>
 
-<!-- Optional: Add a simple CSS animation (not all markdown renderers support this) -->
-</style>
   <!-- Welcome GIF -->
 
 

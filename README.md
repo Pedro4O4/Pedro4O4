@@ -57,17 +57,4 @@
     </div>
   </div>
 </div>
-
 <br/>
-
-
----
-
-<!-- Smooth animation gradient bar -->
-<p align="center">
-  <img src="https://github.com/Pedro4O4/Pedro4O4/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F60FF&width=435&lines=Hello+World!!;Welcome+to+my+profile!;Happy+Coding!+🚀" alt="Typing SVG" />
-</p>

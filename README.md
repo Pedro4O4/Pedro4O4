@@ -93,6 +93,9 @@
       <a href="mailto:bebonageh68@gmail.com" style="z-index:3;">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius:8px;box-shadow:0 2px 8px #D1483688;"/>
       </a>
+      <a href="https://www.facebook.com/pedro.nageh.1/" target="_blank" style="z-index:3;">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="border-radius:8px;box-shadow:0 2px 8px #1877F288;"/>
+      </a>
     </div>
   </div>
 </div>

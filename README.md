@@ -27,7 +27,7 @@
 <!-- Badges Section: Top Languages (left) and Stats (right) -->
 
 <!-- Tech Stack (left) and Tools (right) -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-top: 24px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-top: 12px;">
   <div>
     <h3>🛠️ Tech Stack</h3>
     <p>

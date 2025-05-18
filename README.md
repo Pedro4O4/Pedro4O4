@@ -6,8 +6,9 @@
   <p style="font-size: 20px; font-weight: bold; color: #444; margin-bottom: 10px;">
     👀 Visitors
   </p>
-  <img src="https://profile-counter.glitch.me/Pedro4O4/count.svg?" alt="Visitor Counter"
-       style="border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Pedro4O4/count.svg?" />
+</div> 
 </div>
 
 <p align="center">

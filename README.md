@@ -5,10 +5,11 @@
 <div align="center" style="margin-top: 20px;">
   <p style="font-size: 20px; font-weight: bold; color: #444; margin-bottom: 10px;">
     👀 Visitors
-  </p>
-<div align="center">
+    <div align="center">
   <img src="https://profile-counter.glitch.me/Pedro4O4/count.svg?" />
 </div> 
+  </p>
+
 </div>
 
 <p align="center">

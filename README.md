@@ -6,8 +6,9 @@
   <img src="https://profile-counter.glitch.me/Pedro4O4/count.svg?" />
 </div>
 <p align="center">
+  <strong>Visitors</strong><br/>
   <a href="https://github.com/Pedro4O4">
-      <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak" style="border-radius: 16px; box-shadow: 0 2px 10px #7367f055;"/>
+    <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak" style="border-radius: 16px; box-shadow: 0 2px 10px #7367f055;"/>
   </a>
   <br/>
 </p>

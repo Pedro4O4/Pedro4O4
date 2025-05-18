@@ -66,9 +66,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="45" alt="WebStorm"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
       <img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
   height="45" 
-  alt="HTML5" 
+  alt="GitHub" 
   style="filter: hue-rotate(30deg) saturate(150%) brightness(1.2);" />
     </p>
   </div>

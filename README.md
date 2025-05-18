@@ -18,12 +18,6 @@
 </div>
 
 <!-- Optional: Add a simple CSS animation (not all markdown renderers support this) -->
-<style>
-@keyframes pulse {
-  0% { box-shadow: 0 0 0 0 #0e75b655; }
-  70% { box-shadow: 0 0 0 10px #0e75b600; }
-  100% { box-shadow: 0 0 0 0 #0e75b655; }
-}
 </style>
   <!-- Welcome GIF -->
 

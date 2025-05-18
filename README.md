@@ -3,13 +3,26 @@
 ![Welcome](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc5NGgzMHMwcmxpbnEyNzhkcGNvNmswOGE2YTh6dTJzN3NydTZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif)
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro4O4&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=5&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/a748574912081d4e728386aa07c4fc1ee5dc84467ff165a5617c769b1a468238/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861546b33643274344d325177647a63796444557962544269636d646d633341334f48646a616d523564326c6c4e4731735a6d6c7864535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e77656270" width="350" alt="welcome" />
+<div align="center" style="position: relative; width: 400px; margin: auto;">
+  <!-- Welcome image as background -->
+  <img src="https://camo.githubusercontent.com/a748574912081d4e728386aa07c4fc1ee5dc84467ff165a5617c769b1a468238/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861546b33643274344d325177647a63796444557962544269636d646d633341334f48646a616d523564326c6c4e4731735a6d6c7864535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e77656270"
+    width="400"
+    alt="welcome"
+    style="position: absolute; left: 0; top: 0; z-index: 0; opacity: 0.22;"
+  />
+  <!-- Stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    height="170"
+    alt="Stats"
+    style="position: relative; z-index: 1;"
+  />
+  <br />
+  <!-- Top languages card under stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro4O4&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=5&theme=dracula&hide_border=false"
+    height="140"
+    alt="Top Languages"
+    style="position: relative; z-index: 1;"
+  />
 </div>
 
 <h3 align="center">🏆 Achievements</h3>

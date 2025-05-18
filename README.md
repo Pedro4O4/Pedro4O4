@@ -6,7 +6,11 @@
   <img src="https://profile-counter.glitch.me/Pedro4O4/count.svg?" />
 </div>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak" />
+  <a href="https://github.com/Pedro4O4">
+    <img src="https://komarev.com/ghpvc/?username=Pedro4O4&style=for-the-badge&color=blueviolet" alt="Profile Views" style="border-radius: 20px; box-shadow: 0 2px 10px #ce9ffc55, 0 1.5px 5px #7367f055; margin-bottom: 12px;"/>
+  </a>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak" style="border-radius: 16px; box-shadow: 0 2px 10px #7367f055;"/>
 </p>
 
   <h3 align="center" style="margin-top: 32px;">🏆 Achievements</h3>

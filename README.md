@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! I'm Ebram Nageh</h2>
 
-![Welcome](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc5NGgzMHMwcmxpbnEyNzhkcGNvNmswOGE2YTh6dTJzN3NydTZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc5NGgzMHMwcmxpbnEyNzhkcGNvNmswOGE2YTh6dTJzN3NydTZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="200" alt="Welcome" />
+</p>
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="Stats" />

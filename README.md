@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Ebram Nageh</h2>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc5NGgzMHMwcmxpbnEyNzhkcGNvNmswOGE2YTh6dTJzN3NydTZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="500" alt="Welcome" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc5NGgzMHMwcmxpbnEyNzhkcGNvNmswOGE2YTh6dTJzN3NydTZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="350" alt="Welcome" />
 </p>
 ---
 <div align="center">

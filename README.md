@@ -2,11 +2,15 @@
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc5NGgzMHMwcmxpbnEyNzhkcGNvNmswOGE2YTh6dTJzN3NydTZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="350" alt="Welcome" />
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pedro4O4/count.svg?" />
+<div align="center" style="margin-top: 20px;">
+  <p style="font-size: 20px; font-weight: bold; color: #444; margin-bottom: 10px;">
+    👀 Visitors
+  </p>
+  <img src="https://profile-counter.glitch.me/Pedro4O4/count.svg?" alt="Visitor Counter"
+       style="border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);" />
 </div>
+
 <p align="center">
-  <strong>Visitors</strong><br/>
   <a href="https://github.com/Pedro4O4">
     <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak" style="border-radius: 16px; box-shadow: 0 2px 10px #7367f055;"/>
   </a>

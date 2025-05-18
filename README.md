@@ -4,6 +4,8 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc5NGgzMHMwcmxpbnEyNzhkcGNvNmswOGE2YTh6dTJzN3NydTZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="350" alt="Welcome" />
 <div align="center">
 
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPO&style=for-the-badge)](https://github.com/Pedro4O4/Pedro4O4)
+
   <!-- Welcome GIF -->
 
 

@@ -29,7 +29,7 @@
 <!-- Tech Stack (left) and Tools (right) -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-top: 12px;">
   <div>
-    <h3>🛠️ Tech Stack</h3>  <h3> & 🗄️ Databases</h3>
+    <h3>🛠️ Tech Stack & Databases🗄️</h3>
     <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>
@@ -47,7 +47,7 @@
 <!-- Environments & IDEs (left) and Databases (right) -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-top: 24px;">
   <div>
-    <h3>💻 Environments & IDEs</h3> <h3> & 🔧 Tools</h3>
+    <h3>💻 Environments & IDEs & Tools🔧</h3>
     <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="PyCharm"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA"/>

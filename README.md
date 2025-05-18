@@ -54,9 +54,17 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="45" alt="CLion"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="45" alt="WebStorm"/>
-   <!-- Change GitHub icon color to blue using CSS filter -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" style="filter: invert(33%) sepia(99%) saturate(7495%) hue-rotate(201deg) brightness(97%) contrast(102%);" />
+      ```html
+<!-- Simple Git Icon (Violet) -->
+<svg height="45" viewBox="0 0 24 24" fill="violet" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22.55 11.37L12.62 1.45a1.89 1.89 0 0 0-2.67 0l-2.4 2.4 2.1 2.1a1.5 1.5 0 0 1 1.84 1.84l2.06 2.06a1.5 1.5 0 1 1-.91.91l-2.06-2.06a1.5 1.5 0 1 1-2.1-2.1l-2.09-2.1L1.45 9.95a1.89 1.89 0 0 0 0 2.67l9.93 9.93a1.89 1.89 0 0 0 2.67 0l8.5-8.5a1.89 1.89 0 0 0 0-2.67z"/>
+</svg>
+
+<!-- Simple GitHub Icon (Violet) -->
+<svg height="45" viewBox="0 0 24 24" fill="violet" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 .5C5.73.5.5 5.74.5 12c0 5.1 3.29 9.43 7.86 10.97.58.1.8-.25.8-.55 0-.27-.01-1.16-.01-2.11-3.2.7-3.88-1.54-3.88-1.54-.53-1.36-1.29-1.72-1.29-1.72-1.06-.72.08-.71.08-.71 1.17.08 1.79 1.2 1.79 1.2 1.04 1.78 2.73 1.27 3.4.97.1-.76.41-1.27.75-1.56-2.56-.29-5.26-1.28-5.26-5.71 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.45.11-3.01 0 0 .97-.31 3.18 1.18a11.07 11.07 0 0 1 2.9-.39c.99.01 1.99.13 2.9.39 2.2-1.49 3.17-1.18 3.17-1.18.63 1.56.23 2.72.11 3.01.74.81 1.19 1.84 1.19 3.1 0 4.44-2.7 5.42-5.27 5.71.42.36.8 1.09.8 2.2 0 1.59-.01 2.88-.01 3.28 0 .3.22.66.81.55C20.71 21.43 24 17.1 24 12c0-6.26-5.24-11.5-12-11.5z"/>
+</svg>
+```
     </p>
   </div>
 </div>

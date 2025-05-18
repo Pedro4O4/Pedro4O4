@@ -13,11 +13,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Pedro4O4&theme=dracula&column=6&margin-w=8&margin-h=8" width="90%" alt="GitHub Trophies" style="margin-top: 10px;" />
 </div>
 <!-- Stats Section (still centered for good visuals) -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="Stats" style="margin: 8px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro4O4&locale=en&hide_title=false&layout=compact&card_width=260&langs_count=5&theme=dracula&hide_border=true" height="160" alt="Top Languages" style="margin: 8px;" />
-</div>
-
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro4O4&locale=en&hide_title=false&layout=compact&card_width=260&langs_count=5&theme=dracula&hide_border=true" height="160" alt="Top Languages" style="margin: 8px;" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="Stats" style="margin: 8px;" />
+    </td>
+  </tr>
+</table>
 <!-- Tech Stack & Tools side by side -->
 <table>
   <tr>

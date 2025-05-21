@@ -81,7 +81,7 @@
 </p>
 <div align="center" style="position:relative;width:320px;margin:auto;">
   <div style="position:relative; display:inline-block;">
-  <img src="![Funny GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdsZjI0OG9nczUzMzkxZGQ0bjA2NG44aThlN2RjeG05aWxzbGJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)" width="320" alt="welcome" style="border-radius:18px;box-shadow:0 8px 32px 0 rgba(31,38,135,0.37);filter:blur(0.5px);position:relative;z-index:2;"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdsZjI0OG9nczUzMzkxZGQ0bjA2NG44aThlN2RjeG05aWxzbGJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="welcome" style="border-radius:18px;box-shadow:0 8px 32px 0 rgba(31,38,135,0.37);filter:blur(0.5px);position:relative;z-index:2;"/>
     <div style="
       position:absolute;
       top:50%; left:50%;

@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/Pedro4O4">
-    <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak" style="border-radius: 16px; box-shadow: 0 2px 10px #7367f055;"/>
+    <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak"/>
   </a>
   <br/>
 </p>

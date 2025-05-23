@@ -25,11 +25,25 @@
 <!-- Stats Section (still centered for good visuals) -->
 <table>
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro4O4&locale=en&hide_title=false&layout=compact&card_width=260&langs_count=5&theme=dracula&hide_border=true" height="160" alt="Top Languages" style="margin: 8px;" />
+    <td>
+      <a href="https://github.com/Pedro4O4">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro4O4&layout=compact&langs_count=5&theme=dracula&hide_border=true&card_width=260" 
+          alt="Top Languages" 
+          height="160" 
+          style="margin:8px;"
+        />
+      </a>
     </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="Stats" style="margin: 8px;" />
+    <td>
+      <a href="https://github.com/Pedro4O4">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true" 
+          alt="GitHub Stats" 
+          height="160" 
+          style="margin:8px;"
+        />
+      </a>
     </td>
   </tr>
 </table>

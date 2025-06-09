@@ -38,8 +38,8 @@
 <td>
   <a href="https://github.com/Pedro4O4">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true"
-      height="160"
+[      src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true"
+](https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true)      height="160"
       alt="Pedro4O4's GitHub Stats"
       style="margin:8px;"
     />

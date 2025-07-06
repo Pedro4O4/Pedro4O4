@@ -62,7 +62,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#"/>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB"/>
     </p>
   </div>
@@ -78,12 +78,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="45" alt="CLion"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="45" alt="WebStorm"/>
-      <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-     height="45" 
-      alt="GitHub" 
-      style="filter: hue-rotate(30deg) saturate(400%) brightness(8);" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
     </p>
   </div>
 </div>

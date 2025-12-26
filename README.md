@@ -1,85 +1,167 @@
-<h2 align="left">Hi 👋! I'm Ebram Nageh</h2>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc5NGgzMHMwcmxpbnEyNzhkcGNvNmswOGE2YTh6dTJzN3NydTZsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="350" alt="Welcome" />
-<div align="center" style="margin-top: 20px;">
-  <p style="font-size: 20px; font-weight: bold; color: #444; margin-bottom: 10px;">
-    👀 Visitors
-    <div align="center">
-  <img src="https://profile-counter.glitch.me/Pedro4O4/count.svg?" />
-</div> 
-  </p>
-
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ebram%20Nageh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descSize=18"/>
 </div>
 
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Pedro4O4">
-    <img src="https://streak-stats.demolab.com/?user=Pedro4O4" alt="GitHub Streak"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🎓+Computer+Science+Student+%40+GIU;💻+Passionate+about+Building+Scalable+Software;🚀+Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
   </a>
-  <br/>
 </p>
 
-  <h3 align="center" style="margin-top: 32px;">🏆 Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedro4O4&theme=dracula&column=6&margin-w=8&margin-h=8" width="90%" alt="GitHub Trophies" style="margin-top: 10px;" />
+<!-- Quick Intro -->
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Pedro4O4)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebonageh68@gmail.com)
+  [![Profile Views](https://komarev.com/ghpvc/?username=Pedro4O4&style=for-the-badge&color=6C63FF)](https://github.com/Pedro4O4)
+  
 </div>
-<!-- Stats Section (still centered for good visuals) -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Pedro4O4">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro4O4&layout=compact&langs_count=5&theme=dracula&hide_border=true&card_width=260" 
-          alt="Top Languages" 
-          height="160" 
-          style="margin:8px;"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Pedro4O4">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true"
-          height="160"
-          alt="Pedro4O4's GitHub Stats"
-          style="margin:8px;"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-<!-- Tech Stack & Tools side by side -->
-<!-- Badges Section: Top Languages (left) and Stats (right) -->
-
-<!-- Tech Stack (left) and Tools (right) -->
-
 
 ---
-<p align="center" style="font-size:1.15em;">
-  <b>Welcome!</b> <br>
-  Connect with me:
-</p>
-<div align="center" style="position:relative;width:320px;margin:auto;">
-  <div style="position:relative; display:inline-block;">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdsZjI0OG9nczUzMzkxZGQ0bjA2NG44aThlN2RjeG05aWxzbGJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="welcome" style="border-radius:18px;box-shadow:0 8px 32px 0 rgba(31,38,135,0.37);filter:blur(0.5px);position:relative;z-index:2;"/>
-    <div style="
-      position:absolute;
-      top:50%; left:50%;
-      transform:translate(-50%, -35%);
-      width:90%; display:flex; gap:10px; justify-content:center; z-index:3;
-      ">
-      <a href="https://www.instagram.com/pedro_nageh/" target="_blank" style="z-index:3;">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius:8px;box-shadow:0 2px 8px #E4405F88;"/>
-      </a>
-      <a href="https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/" target="_blank" style="z-index:3;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:8px;box-shadow:0 2px 8px #0077B588;"/>
-      </a>
-      <a href="mailto:bebonageh68@gmail.com" style="z-index:3;">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius:8px;box-shadow:0 2px 8px #D1483688;"/>
-      </a>
-      <a href="https://www.facebook.com/pedro.nageh.1/" target="_blank" style="z-index:3;">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="border-radius:8px;box-shadow:0 2px 8px #1877F288;"/>
-      </a>
-    </div>
-  </div>
+
+## 👨‍💻 About Me
+
+```typescript
+const ebramNageh = {
+    location: "Egypt 🇪🇬",
+    education: "German International University (GIU) - Computer Science",
+    roles: ["Full-Stack Developer", "Software Engineer", "Problem Solver"],
+    currentFocus: "Building scalable web applications & enterprise solutions",
+    lifePhilosophy: "Clean code, continuous learning, and impactful solutions"
+};
+```
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+- 🎓 **Studying** Computer Science at **German International University**
+- 💼 **Open to** Internship & Full-time Opportunities
+- 🌱 **Currently mastering** React, Node.js, TypeScript & System Design
+- 🔭 **Working on** Enterprise-grade applications with modern tech stacks
+- 💬 **Ask me about** Full-Stack Development, OOP, or Software Architecture
+- ⚡ **Fun fact:** I love turning complex problems into elegant solutions!
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
-<br/>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Pedro4O4/Theater-Ticketing-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Theater-Ticketing-System&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+<a href="https://github.com/Pedro4O4/HR-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=HR-System&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
+<a href="https://github.com/Pedro4O4/Gamified-Personalizable-Educational-Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Gamified-Personalizable-Educational-Platform&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+<a href="https://github.com/Pedro4O4/Attack-on-Titans-Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Attack-on-Titans-Game&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
+
+</div>
+
+### 📋 Project Highlights
+
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| 🎭 **Theater Ticketing System** | TypeScript, React, Node.js | Full-stack ticketing platform with seat selection, booking management & admin dashboard |
+| 👥 **HR Management System** | React, TypeScript, Backend API | Enterprise HR solution for employee management, analytics & organizational workflows |
+| 🎮 **Educational Platform** | C#, .NET | Gamified learning platform with personalized learning paths and progress tracking |
+| ⚔️ **Attack on Titans Game** | Java, OOP | Strategic tower-defense game demonstrating advanced OOP principles |
+| 🔐 **Encryption System** | Python, Jupyter | Cryptography implementation showcasing security algorithms |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=1a1b27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro4O4&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&bg_color=1a1b27"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro4O4&theme=tokyonight&hide_border=true&border_radius=15&background=1a1b27" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro4O4&theme=tokyo-night&hide_border=true&radius=16&area=true" width="95%"/>
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedro4O4&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+  <p>I'm always excited to collaborate on innovative projects and discuss new opportunities!</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/)
+  [![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebonageh68@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_nageh/)
+  [![Facebook](https://img.shields.io/badge/Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pedro.nageh.1/)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 "Great software is built by great teams, and great teams are built by continuous learning and collaboration."
+  
+  <br/>
+  
+  ![Snake animation](https://raw.githubusercontent.com/Pedro4O4/Pedro4O4/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>

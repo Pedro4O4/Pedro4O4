@@ -66,15 +66,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro4O4&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always excited to collaborate on innovative projects and discuss new opportunities!

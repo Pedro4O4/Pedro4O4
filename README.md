@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
+
 <h1 align="center">Hi, I'm Ebram Nageh 👋</h1>
 
 <h3 align="center">Full-Stack Developer | IT Security Specialist</h3>
@@ -12,10 +14,14 @@
 
 ## 🎓 About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+
 - 📍 Based in **Egypt**
 - 🎓 **Computer Science & IT Security** student at **German International University (GIU)**
 - 💼 Open to **Security Engineer**, **Full-Stack**, and **Software Engineering** opportunities
 - 🔐 Passionate about **Cybersecurity**, **Secure Coding**, and building **scalable applications**
+
+<br clear="right"/>
 
 ---
 
@@ -83,3 +89,5 @@ I'm always excited to collaborate on innovative projects and discuss new opportu
 ---
 
 <p align="center"><i>"Security-first development, continuous learning, and impactful solutions."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>

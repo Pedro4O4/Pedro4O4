@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ebram%20Nageh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ebram%20Nageh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20IT%20Security%20Specialist&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Pedro4O4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🎓+Computer+Science+Student+%40+GIU;💻+Passionate+about+Building+Scalable+Software;🚀+Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=🎓+CS+%26+IT+Security+Student+%40+GIU;�+Passionate+about+Cybersecurity+%26+Development;🛡️+Building+Secure+%26+Scalable+Software+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,21 +27,23 @@
 ```typescript
 const ebramNageh = {
     location: "Egypt 🇪🇬",
-    education: "German International University (GIU) - Computer Science",
-    roles: ["Full-Stack Developer", "Software Engineer", "Problem Solver"],
-    currentFocus: "Building scalable web applications & enterprise solutions",
-    lifePhilosophy: "Clean code, continuous learning, and impactful solutions"
+    education: "German International University (GIU) - Computer Science & IT Security",
+    roles: ["Full-Stack Developer", "IT Security Specialist", "Software Engineer"],
+    currentFocus: "Building secure, scalable web applications & enterprise solutions",
+    securityInterests: ["Cryptography", "Network Security", "Penetration Testing", "Secure Coding"],
+    lifePhilosophy: "Security-first development, continuous learning, and impactful solutions"
 };
 ```
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-- 🎓 **Studying** Computer Science at **German International University**
-- 💼 **Open to** Internship & Full-time Opportunities
-- 🌱 **Currently mastering** React, Node.js, TypeScript & System Design
-- 🔭 **Working on** Enterprise-grade applications with modern tech stacks
-- 💬 **Ask me about** Full-Stack Development, OOP, or Software Architecture
-- ⚡ **Fun fact:** I love turning complex problems into elegant solutions!
+- 🎓 **Studying** Computer Science & IT Security at **German International University**
+- � **Specializing in** Cybersecurity, Cryptography & Secure Software Development
+- �💼 **Open to** Security Engineer, Full-Stack & Software Engineering Opportunities
+- 🌱 **Currently mastering** React, Node.js, TypeScript, Penetration Testing & System Security
+- 🔭 **Working on** Secure enterprise applications with modern tech stacks
+- 💬 **Ask me about** IT Security, Full-Stack Development, or Secure Architecture
+- ⚡ **Fun fact:** I love finding vulnerabilities and turning complex security problems into elegant solutions!
 
 ---
 
@@ -77,6 +79,16 @@ const ebramNageh = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### 🔐 Security & Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
 </div>
 
 ---
@@ -95,6 +107,9 @@ const ebramNageh = {
 <a href="https://github.com/Pedro4O4/Gamified-Personalizable-Educational-Platform">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Gamified-Personalizable-Educational-Platform&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
+<a href="https://github.com/Pedro4O4/encryption-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=encryption-system&theme=tokyonight&hide_border=true&border_radius=15" />
+</a>
 <a href="https://github.com/Pedro4O4/Attack-on-Titans-Game">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Attack-on-Titans-Game&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
@@ -105,11 +120,11 @@ const ebramNageh = {
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
-| 🎭 **Theater Ticketing System** | TypeScript, React, Node.js | Full-stack ticketing platform with seat selection, booking management & admin dashboard |
-| 👥 **HR Management System** | React, TypeScript, Backend API | Enterprise HR solution for employee management, analytics & organizational workflows |
-| 🎮 **Educational Platform** | C#, .NET | Gamified learning platform with personalized learning paths and progress tracking |
-| ⚔️ **Attack on Titans Game** | Java, OOP | Strategic tower-defense game demonstrating advanced OOP principles |
-| 🔐 **Encryption System** | Python, Jupyter | Cryptography implementation showcasing security algorithms |
+| 🔐 **Encryption System** | Python, Cryptography | **Security Project:** Advanced cryptographic algorithms implementation including AES, RSA & hashing |
+| 🎭 **Theater Ticketing System** | TypeScript, React, Node.js | Secure full-stack ticketing platform with authentication, seat selection & admin dashboard |
+| 👥 **HR Management System** | React, TypeScript, REST API | Enterprise HR solution with role-based access control, employee analytics & secure workflows |
+| 🎮 **Educational Platform** | C#, .NET | Gamified learning platform with secure user authentication and progress tracking |
+| ⚔️ **Attack on Titans Game** | Java, OOP | Strategic tower-defense game demonstrating advanced OOP & design patterns |
 
 ---
 

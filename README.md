@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ebram%20Nageh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20IT%20Security%20Specialist&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ebram%20Nageh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20IT%20Security%20Specialist&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Pedro4O4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=🎓+CS+%26+IT+Security+Student+%40+GIU;�+Passionate+about+Cybersecurity+%26+Development;🛡️+Building+Secure+%26+Scalable+Software+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=CS+and+IT+Security+Student+at+GIU;Passionate+about+Cybersecurity+and+Development;Building+Secure+and+Scalable+Software+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,11 +22,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const ebramNageh = {
-    location: "Egypt 🇪🇬",
+    location: "Egypt",
     education: "German International University (GIU) - Computer Science & IT Security",
     roles: ["Full-Stack Developer", "IT Security Specialist", "Software Engineer"],
     currentFocus: "Building secure, scalable web applications & enterprise solutions",
@@ -38,8 +38,8 @@ const ebramNageh = {
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 - 🎓 **Studying** Computer Science & IT Security at **German International University**
-- � **Specializing in** Cybersecurity, Cryptography & Secure Software Development
-- �💼 **Open to** Security Engineer, Full-Stack & Software Engineering Opportunities
+- 🔐 **Specializing in** Cybersecurity, Cryptography & Secure Software Development
+- 💼 **Open to** Security Engineer, Full-Stack & Software Engineering Opportunities
 - 🌱 **Currently mastering** React, Node.js, TypeScript, Penetration Testing & System Security
 - 🔭 **Working on** Secure enterprise applications with modern tech stacks
 - 💬 **Ask me about** IT Security, Full-Stack Development, or Secure Architecture
@@ -47,7 +47,7 @@ const ebramNageh = {
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -55,8 +55,8 @@ const ebramNageh = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CPlusPlus](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend Development
@@ -70,7 +70,7 @@ const ebramNageh = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -79,7 +79,7 @@ const ebramNageh = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔐 Security & Cybersecurity
+### Security & Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -93,30 +93,34 @@ const ebramNageh = {
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Pedro4O4/Theater-Ticketing-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Theater-Ticketing-System&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Theater-Ticketing-System&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Pedro4O4/HR-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=HR-System&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=HR-System&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Pedro4O4/Gamified-Personalizable-Educational-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Gamified-Personalizable-Educational-Platform&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
 <a href="https://github.com/Pedro4O4/encryption-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=encryption-system&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=encryption-system&theme=tokyonight&hide_border=true" />
 </a>
+<a href="https://github.com/Pedro4O4/Gamified-Personalizable-Educational-Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Gamified-Personalizable-Educational-Platform&theme=tokyonight&hide_border=true" />
+</a>
+
 <a href="https://github.com/Pedro4O4/Attack-on-Titans-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Attack-on-Titans-Game&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Attack-on-Titans-Game&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Pedro4O4/Memory_MatchCards_Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Memory_MatchCards_Game&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-### 📋 Project Highlights
+### Project Highlights
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
@@ -128,32 +132,36 @@ const ebramNageh = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro4O4&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&bg_color=1a1b27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro4O4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro4O4&theme=tokyonight&hide_border=true&border_radius=15&background=1a1b27" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Pedro4O4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro4O4&theme=tokyo-night&hide_border=true&radius=16&area=true" width="95%"/>
-</div>
-
----
-
-## 🏅 GitHub Trophies
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedro4O4&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro4O4&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedro4O4&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## Let's Connect!
 
 <div align="center">
   
@@ -170,11 +178,15 @@ const ebramNageh = {
 
 <div align="center">
   
-  ### 💡 "Great software is built by great teams, and great teams are built by continuous learning and collaboration."
+  ### "Great software is built by great teams, and great teams are built by continuous learning and collaboration."
   
   <br/>
   
-  ![Snake animation](https://raw.githubusercontent.com/Pedro4O4/Pedro4O4/output/github-contribution-grid-snake-dark.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro4O4/Pedro4O4/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro4O4/Pedro4O4/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Pedro4O4/Pedro4O4/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
   
 </div>
 

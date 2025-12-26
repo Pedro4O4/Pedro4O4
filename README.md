@@ -1,194 +1,85 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ebram%20Nageh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20IT%20Security%20Specialist&descAlignY=52&descSize=18"/>
-</div>
+<h1 align="center">Hi, I'm Ebram Nageh 👋</h1>
 
-<!-- Typing SVG -->
+<h3 align="center">Full-Stack Developer | IT Security Specialist</h3>
+
 <p align="center">
-  <a href="https://github.com/Pedro4O4">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=CS+and+IT+Security+Student+at+GIU;Passionate+about+Cybersecurity+and+Development;Building+Secure+and+Scalable+Software+Solutions" alt="Typing SVG" />
-  </a>
+  <a href="https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:bebonageh68@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Pedro4O4"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<!-- Quick Intro -->
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Pedro4O4)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebonageh68@gmail.com)
-  [![Profile Views](https://komarev.com/ghpvc/?username=Pedro4O4&style=for-the-badge&color=6C63FF)](https://github.com/Pedro4O4)
-  
-</div>
+---
+
+## 🎓 About Me
+
+- 📍 Based in **Egypt**
+- 🎓 **Computer Science & IT Security** student at **German International University (GIU)**
+- 💼 Open to **Security Engineer**, **Full-Stack**, and **Software Engineering** opportunities
+- 🔐 Passionate about **Cybersecurity**, **Secure Coding**, and building **scalable applications**
 
 ---
 
-## About Me
+## 💻 Technical Skills
 
-```typescript
-const ebramNageh = {
-    location: "Egypt",
-    education: "German International University (GIU) - Computer Science & IT Security",
-    roles: ["Full-Stack Developer", "IT Security Specialist", "Software Engineer"],
-    currentFocus: "Building secure, scalable web applications & enterprise solutions",
-    securityInterests: ["Cryptography", "Network Security", "Penetration Testing", "Secure Coding"],
-    lifePhilosophy: "Security-first development, continuous learning, and impactful solutions"
-};
-```
+**Languages:**  
+`TypeScript` `JavaScript` `Java` `C#` `C++` `Python`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+**Frontend:**  
+`React` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
 
-- 🎓 **Studying** Computer Science & IT Security at **German International University**
-- 🔐 **Specializing in** Cybersecurity, Cryptography & Secure Software Development
-- 💼 **Open to** Security Engineer, Full-Stack & Software Engineering Opportunities
-- 🌱 **Currently mastering** React, Node.js, TypeScript, Penetration Testing & System Security
-- 🔭 **Working on** Secure enterprise applications with modern tech stacks
-- 💬 **Ask me about** IT Security, Full-Stack Development, or Secure Architecture
-- ⚡ **Fun fact:** I love finding vulnerabilities and turning complex security problems into elegant solutions!
+**Backend:**  
+`Node.js` `NestJS` `Express.js` `.NET`
+
+**Databases:**  
+`MongoDB` `PostgreSQL` `MySQL`
+
+**Security & Tools:**  
+`Kali Linux` `Wireshark` `Burp Suite` `OWASP` `Cryptography` `Nmap` `Git` `Docker`
 
 ---
 
-## Technical Skills
+## 🚀 Featured Projects
 
-<div align="center">
+### 🔐 [Encryption System](https://github.com/Pedro4O4/encryption-system)
+**Python, Cryptography** — Advanced cryptographic algorithms implementation including AES, RSA & hashing techniques.
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CPlusPlus](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🎭 [Theater Ticketing System](https://github.com/Pedro4O4/Theater-Ticketing-System)
+**TypeScript, React, Node.js** — Full-stack ticketing platform with secure authentication, seat selection & admin dashboard.
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 👥 [HR Management System](https://github.com/Pedro4O4/HR-System)
+**React, TypeScript, REST API** — Enterprise HR solution with role-based access control and employee analytics.
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### 🎮 [Gamified Educational Platform](https://github.com/Pedro4O4/Gamified-Personalizable-Educational-Platform)
+**C#, .NET** — Interactive learning platform with progress tracking and gamification features.
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ⚔️ [Attack on Titans Game](https://github.com/Pedro4O4/Attack-on-Titans-Game)
+**Java, OOP** — Strategic tower-defense game demonstrating advanced object-oriented design patterns.
 
-### Security & Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-</div>
+### 🃏 [Memory Match Cards Game](https://github.com/Pedro4O4/Memory_MatchCards_Game)
+**C++** — Classic memory game with efficient algorithms and clean code architecture.
 
 ---
 
-## Featured Projects
+## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/Pedro4O4/Theater-Ticketing-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Theater-Ticketing-System&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Pedro4O4/HR-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=HR-System&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Pedro4O4/encryption-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=encryption-system&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Pedro4O4/Gamified-Personalizable-Educational-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Gamified-Personalizable-Educational-Platform&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Pedro4O4/Attack-on-Titans-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Attack-on-Titans-Game&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Pedro4O4/Memory_MatchCards_Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro4O4&repo=Memory_MatchCards_Game&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### Project Highlights
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| 🔐 **Encryption System** | Python, Cryptography | **Security Project:** Advanced cryptographic algorithms implementation including AES, RSA & hashing |
-| 🎭 **Theater Ticketing System** | TypeScript, React, Node.js | Secure full-stack ticketing platform with authentication, seat selection & admin dashboard |
-| 👥 **HR Management System** | React, TypeScript, REST API | Enterprise HR solution with role-based access control, employee analytics & secure workflows |
-| 🎮 **Educational Platform** | C#, .NET | Gamified learning platform with secure user authentication and progress tracking |
-| ⚔️ **Attack on Titans Game** | Java, OOP | Strategic tower-defense game demonstrating advanced OOP & design patterns |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro4O4&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
-## GitHub Analytics
+## 🤝 Let's Connect
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro4O4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
+I'm always excited to collaborate on innovative projects and discuss new opportunities!
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pedro4O4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro4O4&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/">LinkedIn</a> •
+  <a href="mailto:bebonageh68@gmail.com">Email</a> •
+  <a href="https://www.instagram.com/pedro_nageh/">Instagram</a> •
+  <a href="https://www.facebook.com/pedro.nageh.1/">Facebook</a>
+</p>
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedro4O4&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## Let's Connect!
-
-<div align="center">
-  
-  <p>I'm always excited to collaborate on innovative projects and discuss new opportunities!</p>
-  
-  [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/)
-  [![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebonageh68@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_nageh/)
-  [![Facebook](https://img.shields.io/badge/Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pedro.nageh.1/)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### "Great software is built by great teams, and great teams are built by continuous learning and collaboration."
-  
-  <br/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro4O4/Pedro4O4/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro4O4/Pedro4O4/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Pedro4O4/Pedro4O4/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-  
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<p align="center"><i>"Security-first development, continuous learning, and impactful solutions."</i></p>

@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ebram Nageh 👋</h1>
 
-<h3 align="center">Full-Stack Developer | IT Security Specialist</h3>
+<h3 align="center">DevSecOps & Full-Stack Engineer | Cybersecurity Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -18,8 +18,8 @@
 
 - 📍 Based in **Egypt**
 - 🎓 **Computer Science & IT Security** student at **German International University (GIU)**
-- 💼 Open to **Security Engineer**, **Full-Stack**, and **Software Engineering** opportunities
-- 🔐 Passionate about **Cybersecurity**, **Secure Coding**, and building **scalable applications**
+- 💼 Open to **DevSecOps**, **Cybersecurity**, and **Full-Stack Engineering** opportunities
+- 🔐 Passionate about **Securing CI/CD pipelines**, **Cloud Architecture**, and building **scalable applications**
 
 <br clear="right"/>
 
@@ -51,8 +51,11 @@
 **Cloud & AWS:**  
 `EC2` `Lambda` `S3` `DynamoDB` `Cognito` `SNS` `SQS` `CloudFront` `CloudWatch` `EventBridge`
 
+**DevSecOps & CI/CD:**  
+`Docker` `Git` `GitHub Actions` `CI/CD Pipelines` `Infrastructure as Code`
+
 **Security & Tools:**  
-`Kali Linux` `Wireshark` `Burp Suite` `OWASP` `Cryptography` `Nmap` `Git` `Docker`
+`Kali Linux` `Wireshark` `Burp Suite` `OWASP` `Cryptography` `Nmap`
 
 ---
 

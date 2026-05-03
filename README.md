@@ -58,11 +58,7 @@
 
 ## 🚀 Featured Projects
 
-<<<<<<< HEAD
 ### ☁️ [Mini-Jira on AWS](https://github.com/Pedro4O4/Cloud-Computing-Project-DevOps-)
-=======
-### ☁️ [Mini-Jira on AWS](https://github.com/Pedro4O4/Cloud-Computing-Project-DevOps)
->>>>>>> 6939a0f498d8ceb53de9e2bd69b54afed4639b6d
 **AWS, React, Node.js, DynamoDB** — A lightweight, event-driven team task-management platform built on AWS with multi-team isolation and serverless architecture.
 
 ### 🔐 [Encryption System](https://github.com/Pedro4O4/encryption-system)

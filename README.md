@@ -25,6 +25,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro4O4&show_icons=true&theme=radical" alt="Pedro4O4's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro4O4&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 💻 Technical Skills
 
 **Languages:**  
@@ -37,7 +46,10 @@
 `Node.js` `NestJS` `Express.js` `.NET`
 
 **Databases:**  
-`MongoDB` `PostgreSQL` `MySQL`
+`MongoDB` `PostgreSQL` `MySQL` `DynamoDB`
+
+**Cloud & AWS:**  
+`EC2` `Lambda` `S3` `DynamoDB` `Cognito` `SNS` `SQS` `CloudFront` `CloudWatch` `EventBridge`
 
 **Security & Tools:**  
 `Kali Linux` `Wireshark` `Burp Suite` `OWASP` `Cryptography` `Nmap` `Git` `Docker`
@@ -45,6 +57,9 @@
 ---
 
 ## 🚀 Featured Projects
+
+### ☁️ [Mini-Jira on AWS](https://github.com/Pedro4O4/Cloud-Computing-Project)
+**AWS, React, Node.js, DynamoDB** — A lightweight, event-driven team task-management platform built on AWS with multi-team isolation and serverless architecture.
 
 ### 🔐 [Encryption System](https://github.com/Pedro4O4/encryption-system)
 **Python, Cryptography** — Advanced cryptographic algorithms implementation including AES, RSA & hashing techniques.

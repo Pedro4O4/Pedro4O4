@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ebram Nageh 👋</h1>
 
-<h3 align="center">DevSecOps Engineer · Full-Stack Developer · IT Security Student</h3>
+<h3 align="center">DevSecOps Engineer · Cloud Security Enthusiast · Full-Stack Developer · IT Security Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/">
@@ -44,6 +44,20 @@
 
 ## 🚀 Featured Projects
 
+### 🎭 [Theater Ticketing System](https://github.com/Pedro4O4/Theater-Ticketing-System)
+**TypeScript · React · Node.js · NestJS · MongoDB · Azure · GitHub Actions**
+
+Full-stack ticketing platform with authentication, RBAC, QR-code verification, transactional email, and cloud deployment.
+
+- Built secure authentication using **JWT, Passport.js, bcrypt, and RBAC**
+- Implemented roles for **Admin, Organiser, User, and Scanner**
+- Deployed with **Azure Static Web Apps, Azure App Service, and GitHub Actions CI/CD**
+- Added QR-code ticket validation and email notifications
+
+🔗 Live Demo: [purple-wave-002c50103.2.azurestaticapps.net](https://purple-wave-002c50103.2.azurestaticapps.net/)
+
+---
+
 ### ☁️ [Mini-Jira on AWS](https://github.com/Pedro4O4/Cloud-Computing-Project-DevOps-)
 **AWS · React · Node.js · DynamoDB · Lambda · SNS/SQS · EventBridge · Cognito · CloudWatch**
 
@@ -53,18 +67,6 @@ Cloud-native team task-management platform built on AWS with multi-team isolatio
 - Used **DynamoDB GSIs** for scalable team and assignee-based queries
 - Implemented workflows with **SNS, SQS, Lambda, S3 triggers, and EventBridge**
 - Added monitoring using **CloudWatch dashboards, alarms, and metrics**
-
----
-
-### 🛡️ [Enterprise Network Security Design](https://github.com/Pedro4O4/Network-Security)
-**Cisco Packet Tracer · VLAN · OSPF · AAA/TACACS+ · IPS · ACL · ZPF · IPsec VPN · DMZ**
-
-Secure enterprise network simulation covering segmentation, DMZ design, branch connectivity, access control, and VPN-based communication.
-
-- Designed a multi-subnet topology with **server room, offices, DMZ, ISP, and branch network**
-- Configured **OSPF, AAA/TACACS+, Syslog, and SSH hardening**
-- Applied **ACLs, IOS IPS, Zone-Based Firewall, port security, and brute-force protection**
-- Secured inter-branch traffic using **IPsec Site-to-Site VPN**
 
 ---
 
@@ -81,17 +83,15 @@ Practical penetration testing portfolio covering reconnaissance, enumeration, ex
 
 ---
 
-### 🎭 [Theater Ticketing System](https://github.com/Pedro4O4/Theater-Ticketing-System)
-**TypeScript · React · Node.js · NestJS · MongoDB · Azure · GitHub Actions**
+### 🛡️ [Enterprise Network Security Design](https://github.com/Pedro4O4/Network-Security)
+**Cisco Packet Tracer · VLAN · OSPF · AAA/TACACS+ · IPS · ACL · ZPF · IPsec VPN · DMZ**
 
-Full-stack ticketing platform with authentication, RBAC, QR-code verification, transactional email, and cloud deployment.
+Secure enterprise network simulation covering segmentation, DMZ design, branch connectivity, access control, and VPN-based communication.
 
-- Built secure authentication using **JWT, Passport.js, bcrypt, and RBAC**
-- Implemented roles for **Admin, Organiser, User, and Scanner**
-- Deployed with **Azure Static Web Apps, Azure App Service, and GitHub Actions CI/CD**
-- Added QR-code ticket validation and email notifications
-
-🔗 Live Demo: [purple-wave-002c50103.2.azurestaticapps.net](https://purple-wave-002c50103.2.azurestaticapps.net/)
+- Designed a multi-subnet topology with **server room, offices, DMZ, ISP, and branch network**
+- Configured **OSPF, AAA/TACACS+, Syslog, and SSH hardening**
+- Applied **ACLs, IOS IPS, Zone-Based Firewall, port security, and brute-force protection**
+- Secured inter-branch traffic using **IPsec Site-to-Site VPN**
 
 ---
 

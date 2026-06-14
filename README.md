@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ebram Nageh 👋</h1>
 
-<h3 align="center">DevSecOps Engineer · Cloud Security Enthusiast · Full-Stack Developer · IT Security Student</h3>
+<h3 align="center">DevSecOps Engineer · Full-Stack Developer · IT Security Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/">

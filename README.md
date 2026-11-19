@@ -59,9 +59,13 @@
 ---
 ### 🎭 [Theater Ticketing System](https://github.com/simonsalib/Theater-Ticketing-System)
 
+<img src="https://img.shields.io/badge/status-live%20in%20production-667eea?style=flat-square&labelColor=24292f" alt="Status: live in production"/>
+<img src="https://img.shields.io/badge/users-200%2B-667eea?style=flat-square&labelColor=24292f" alt="200+ users"/>
+<img src="https://img.shields.io/badge/usage-live%20performances-667eea?style=flat-square&labelColor=24292f" alt="Used during live performances"/>
+
 **TypeScript · React · Node.js · NestJS · MongoDB · Azure · GitHub Actions**
 
-Full-stack ticketing platform with authentication, RBAC, QR-code verification, transactional email, and cloud deployment. **In production with 200+ users, used during live performances.**
+Full-stack ticketing platform with authentication, RBAC, QR-code verification, transactional email, and cloud deployment.
 
 - Built secure authentication using **JWT, Passport.js, bcrypt, and RBAC**
 - Implemented roles for **Admin, Organiser, User, and Scanner**

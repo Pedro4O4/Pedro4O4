@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Ebram Nageh 👋</h1>
 
-<h3 align="center">DevSecOps Engineer · Full-Stack Developer · IT Security Student</h3>
+<h3 align="center">Cloud Engineer · Full-Stack Developer · IT Security Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ebram-nageh-0b6b6a30b/">
@@ -25,8 +25,8 @@
 - 📍 Based in **Egypt**
 - 🎓 **Computer Science student specializing in IT Security** at **German International University (GIU)**
 - ☁️ Interested in **DevOps, Cloud Security, Automation, and Scalable Infrastructure**
-- 🔐 Hands-on with **Network Security, Penetration Testing, Secure Backend Systems, and CI/CD**
-- 💼 Open to **DevOps**, **Cloud Engineering**, **Cloud Security**, **Cybersecurity**, and **Full-Stack Engineering** opportunities
+- 🔐 Hands-on with **Network Security, Penetration Testing,and Secure Backend Systems**
+- 💼 Open to  **Cloud Engineering**, **Cybersecurity**, and **Full-Stack Engineering** opportunities
 - 🧠 I enjoy building systems that are **secure, observable, scalable, and well-documented**
 
 <br clear="right"/>

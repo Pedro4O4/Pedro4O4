@@ -57,20 +57,11 @@
 - **Next:** secure baseline in MP-SPDZ, secure SNN microbenchmarks, end-to-end prototype, leakage and cost analysis
 
 ---
-### 🎭 [Theater Ticketing System](https://github.com/Pedro4O4/Theater-Ticketing-System)
-
-<p>
-  <img src="https://img.shields.io/badge/STATUS-LIVE%20IN%20PRODUCTION-2ea44f?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Live in production"/>
-  <img src="https://img.shields.io/badge/USERS-200%2B-f59e0b?style=for-the-badge" alt="200+ users"/>
-  <img src="https://img.shields.io/badge/USED%20ON-SHOW%20NIGHTS-764ba2?style=for-the-badge" alt="Used on show nights"/>
-</p>
-
-> [!TIP]
-> **🌟 Real users, real traffic.** Running in production with **200+ users**, and actively used whenever a play is on.
+### 🎭 [Theater Ticketing System](https://github.com/simonsalib/Theater-Ticketing-System)
 
 **TypeScript · React · Node.js · NestJS · MongoDB · Azure · GitHub Actions**
 
-Full-stack ticketing platform with authentication, RBAC, QR-code verification, transactional email, and cloud deployment.
+Full-stack ticketing platform with authentication, RBAC, QR-code verification, transactional email, and cloud deployment. **In production with 200+ users, used during live performances.**
 
 - Built secure authentication using **JWT, Passport.js, bcrypt, and RBAC**
 - Implemented roles for **Admin, Organiser, User, and Scanner**

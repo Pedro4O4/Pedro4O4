@@ -57,8 +57,17 @@
 - **Next:** secure baseline in MP-SPDZ, secure SNN microbenchmarks, end-to-end prototype, leakage and cost analysis
 
 ---
-
 ### 🎭 [Theater Ticketing System](https://github.com/Pedro4O4/Theater-Ticketing-System)
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-LIVE%20IN%20PRODUCTION-2ea44f?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Live in production"/>
+  <img src="https://img.shields.io/badge/USERS-200%2B-f59e0b?style=for-the-badge" alt="200+ users"/>
+  <img src="https://img.shields.io/badge/USED%20ON-SHOW%20NIGHTS-764ba2?style=for-the-badge" alt="Used on show nights"/>
+</p>
+
+> [!TIP]
+> **🌟 Real users, real traffic.** Running in production with **200+ users**, and actively used whenever a play is on.
+
 **TypeScript · React · Node.js · NestJS · MongoDB · Azure · GitHub Actions**
 
 Full-stack ticketing platform with authentication, RBAC, QR-code verification, transactional email, and cloud deployment.
@@ -69,8 +78,6 @@ Full-stack ticketing platform with authentication, RBAC, QR-code verification, t
 - Added QR-code ticket validation and email notifications
 
 🔗 Live Demo: [purple-wave-002c50103.2.azurestaticapps.net](https://purple-wave-002c50103.2.azurestaticapps.net/)
-
----
 
 ### ☁️ [Mini-Jira on AWS](https://github.com/Pedro4O4/Cloud-Computing-Project-DevOps-)
 **AWS · React · Node.js · DynamoDB · Lambda · SNS/SQS · EventBridge · Cognito · CloudWatch**

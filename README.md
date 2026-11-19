@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header" alt=""/>
 
 <h1 align="center">Hi, I'm Ebram Nageh 👋</h1>
 
@@ -20,13 +20,14 @@
 
 ## 🎓 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt=""/>
 
 - 📍 Based in **Egypt**
 - 🎓 **Computer Science student specializing in IT Security** at **German International University (GIU)**
+- 🔬 Writing my **B.Sc. thesis on privacy-preserving machine learning**: secure multi-party computation for training spiking neural networks
 - ☁️ Interested in **DevOps, Cloud Security, Automation, and Scalable Infrastructure**
-- 🔐 Hands-on with **Network Security, Penetration Testing,and Secure Backend Systems**
-- 💼 Open to  **Cloud Engineering**, **Cybersecurity**, and **Full-Stack Engineering** opportunities
+- 🔐 Hands-on with **Network Security, Penetration Testing, Digital Forensics, and Secure Backend Systems**
+- 💼 Open to **Cloud Engineering**, **Cybersecurity**, and **Full-Stack Engineering** opportunities
 - 🧠 I enjoy building systems that are **secure, observable, scalable, and well-documented**
 
 <br clear="right"/>
@@ -43,6 +44,19 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 [Secure Training of Spiking Neural Networks](https://github.com/Pedro4O4/Biologically-Plausible-Secure-MPC-for-Efficient-Privacy-Preserving-AI-Training) · B.Sc. Thesis (in progress)
+**Python · PyTorch · MP-SPDZ · Spiking Neural Networks · STDP · Secure Multi-Party Computation**
+
+*Biologically Plausible Secure MPC for Efficient Privacy-Preserving AI Training II.* Research question: does a spiking neural network trained with a local learning rule (STDP) really get cheaper under MPC once the cost of hiding data-dependent spike patterns is counted? A negative result is an acceptable outcome.
+
+- Built the **plaintext reference pipeline from scratch** on MNIST: rate encoding, LIF neuron layer, trace-based STDP, and a supervised readout
+- Measured **80.9 % test accuracy** for the STDP-trained SNN vs **92.96 %** for a backprop ANN baseline, with an **untrained-layer control (55.7 %)** to isolate what STDP actually learns (preliminary, single seed)
+- Config-driven experiments, **13 unit tests**, and an interactive local dashboard that runs the real code
+- Documented the leakage risk of data-dependent sparsity and a fixed-length execution design
+- **Next:** secure baseline in MP-SPDZ, secure SNN microbenchmarks, end-to-end prototype, leakage and cost analysis
+
+---
 
 ### 🎭 [Theater Ticketing System](https://github.com/Pedro4O4/Theater-Ticketing-System)
 **TypeScript · React · Node.js · NestJS · MongoDB · Azure · GitHub Actions**
@@ -63,7 +77,7 @@ Full-stack ticketing platform with authentication, RBAC, QR-code verification, t
 
 Cloud-native team task-management platform built on AWS with multi-team isolation, event-driven workflows, authentication, and observability.
 
-- Built a fault-tolerant architecture using **EC2 ASG, ALB, CloudFront, and private-subnet VPC**
+- Built a fault-tolerant architecture using **EC2 ASG, ALB, CloudFront, and a private-subnet VPC**
 - Used **DynamoDB GSIs** for scalable team and assignee-based queries
 - Implemented workflows with **SNS, SQS, Lambda, S3 triggers, and EventBridge**
 - Added monitoring using **CloudWatch dashboards, alarms, and metrics**
@@ -91,7 +105,7 @@ Secure enterprise network simulation covering segmentation, DMZ design, branch c
 - Designed a multi-subnet topology with **server room, offices, DMZ, ISP, and branch network**
 - Configured **OSPF, AAA/TACACS+, Syslog, and SSH hardening**
 - Applied **ACLs, IOS IPS, Zone-Based Firewall, port security, and brute-force protection**
-- Secured inter-branch traffic using **IPsec Site-to-Site VPN**
+- Secured inter-branch traffic using an **IPsec site-to-site VPN**
 
 ---
 
@@ -103,76 +117,58 @@ Cryptography project implementing core encryption, decryption, and hashing conce
 - Implemented **AES, RSA, and hashing techniques**
 - Practiced secure data transformation and key-based encryption
 
----
+<details>
+<summary><b>📁 More projects (university coursework)</b></summary>
 
-### 👥 [HR Management System](https://github.com/Pedro4O4/HR-System)
-**React · TypeScript · REST API**
+<br/>
 
-Enterprise-style HR platform for employee management, role-based access, and administrative workflows.
+**👥 [HR Management System](https://github.com/Pedro4O4/HR-System)** · `React` `TypeScript` `REST API`
+Enterprise-style HR platform for employee management, role-based access, and administrative workflows. Responsive React/TypeScript frontend with API-driven architecture.
 
-- Built responsive frontend screens using **React and TypeScript**
-- Designed structured HR workflows for employee and admin operations
-- Applied API-driven architecture and clean component organization
+**🎮 [Gamified Educational Platform](https://github.com/Pedro4O4/Gamified-Personalizable-Educational-Platform)** · `C#` `.NET`
+Interactive educational platform using gamification to improve learning engagement and progress tracking, built with structured application logic and OOP principles.
 
----
+**⚔️ [Attack on Titans Game](https://github.com/Pedro4O4/Attack-on-Titans-Game)** · `Java` `OOP`
+Tower-defense game demonstrating inheritance, encapsulation, and modular game design.
 
-### 🎮 [Gamified Educational Platform](https://github.com/Pedro4O4/Gamified-Personalizable-Educational-Platform)
-**C# · .NET**
+**🃏 [Memory Match Cards Game](https://github.com/Pedro4O4/Memory_MatchCards_Game)** · `C++`
+Memory card game focused on matching logic, game state handling, and clean control flow.
 
-Interactive educational platform using gamification to improve learning engagement and progress tracking.
-
-- Built progress-based learning workflows
-- Applied structured application logic and OOP principles
-
----
-
-### ⚔️ [Attack on Titans Game](https://github.com/Pedro4O4/Attack-on-Titans-Game)
-**Java · OOP**
-
-Tower-defense game demonstrating object-oriented programming and modular game design.
-
-- Applied inheritance, encapsulation, and modular class design
-- Built strategic gameplay mechanics using Java
-
----
-
-### 🃏 [Memory Match Cards Game](https://github.com/Pedro4O4/Memory_MatchCards_Game)
-**C++**
-
-Memory card game focused on algorithms, state management, and clean C++ implementation.
-
-- Implemented matching logic and game state handling
-- Practiced efficient control flow and structured code design
+</details>
 
 ---
 
 ## 💻 Technical Skills
 
-**Languages:**  
+**Languages:**
 `TypeScript` `JavaScript` `Python` `Java` `C#` `C++` `SQL`
 
-**Frontend:**  
+**Frontend:**
 `React` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
 
-**Backend:**  
-`Node.js` `NestJS` `Express.js` `.NET` `REST APIs`
+**Backend:**
+`Node.js` `NestJS` `Express.js` `.NET` `REST APIs` `JWT`
 
-**Databases:**  
+**Databases:**
 `MongoDB` `PostgreSQL` `MySQL` `DynamoDB`
 
-**Cloud & AWS:**  
+**Cloud & AWS:**
 `EC2` `S3` `Lambda` `DynamoDB` `Cognito` `SNS` `SQS` `EventBridge` `CloudFront` `CloudWatch` `ALB` `IAM` `VPC`
 
-**DevOps & CI/CD:**  
+**DevOps & CI/CD:**
 `Docker` `Git` `GitHub Actions` `CI/CD Pipelines` `Azure Static Web Apps` `Azure App Service`
 
-**Security & Networking:**  
-`Kali Linux` `Nmap` `Burp Suite` `Metasploit` `MSFVenom` `Wireshark` `OWASP Top 10` `Cryptography` `Cisco Packet Tracer` `VLAN` `OSPF` `ACL` `TACACS+` `IPsec VPN` `DMZ`
+**Security & Networking:**
+`Kali Linux` `Nmap` `Burp Suite` `Metasploit` `MSFVenom` `Wireshark` `Volatility 3` `OWASP Top 10` `Cryptography` `Cisco Packet Tracer` `VLAN` `OSPF` `ACL` `TACACS+` `IPsec VPN` `DMZ`
+
+**Research & Machine Learning:**
+`PyTorch` `Spiking Neural Networks` `STDP` `MP-SPDZ` `Secure Multi-Party Computation` `Privacy-Preserving ML`
 
 ---
 
 ## 🎯 Current Focus
 
+- Completing my **B.Sc. thesis** on secure multi-party computation for spiking neural network training
 - Building production-ready cloud and DevOps projects
 - Strengthening AWS, Azure, CI/CD, and infrastructure automation skills
 - Developing hands-on cybersecurity experience through network security and penetration testing labs
@@ -197,4 +193,4 @@ I'm always open to collaboration, internships, technical discussions, and buildi
   <i>"Security-first development, continuous learning, and scalable engineering."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" alt=""/>
